@@ -1,7 +1,9 @@
-Deployed site: https://moviemasterweb.netlify.app
 
+# MovieMaster
 
-This movie app is created using Create React App and covers fundamental concepts, including:
+### Deployed site: https://moviemasterweb.netlify.app
+
+### This movie app is created using Create React App and covers fundamental concepts, including:
 
 - Virtual DOM vs. Real DOM
 - Functional components vs. Class components
@@ -17,7 +19,8 @@ This movie app is created using Create React App and covers fundamental concepts
 
 
 <br />
-----------------------------------------------------------
+
+----------------------------
 <br />
 <br />
 <br />
